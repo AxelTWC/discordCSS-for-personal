@@ -1,6 +1,9 @@
 # discordCSS-for-personal
 
 I edited because I do not like the window border and the title bar. It will only be used under my own purposes
+https://gitcdn.link/cdn/AxelTWC/discordCSS-for-personal/main/editFrostGlass.css
+
+Please notify me if you(developer) wish me to remove this
 
 All Credits to:
 Better Discord Theme Developer
