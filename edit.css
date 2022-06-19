@@ -1,8 +1,4 @@
 :root {
-    --TB-top: calc(var(--server-container) + var(--window-padding));
-    --TB-tr-roundness: var(--window-roundness);
-    --TB-position-top: var(--TB-top, var(--window-padding));
-    --TB-position-right: var(--window-padding);
     --tint: rgba(var(--tint-colour), var(--tint-brightness));
     --white-half: rgba(255, 255, 255, 0.025);
     --white: rgba(255, 255, 255, 0.05);
@@ -89,15 +85,6 @@
     transform: translate(-50%, -50%);
   }
   
-  #app-mount .layer-86YKbF {
-    top: var(--window-padding);
-    right: var(--window-padding);
-    bottom: var(--window-padding);
-    left: var(--window-padding);
-    padding-top: 0;
-    overflow: hidden;
-    border-radius: var(--window-roundness);
-  }
   #app-mount .base-2jDfDU::before {
     content: "";
     position: absolute;
@@ -1294,12 +1281,6 @@
     background: rgba(0, 0, 0, var(--right-brightness));
   }
   
-  #app-mount .perksModal-fSYqOq {
-    background-color: rgba(0, 0, 0, var(--middle-brightness));
-    background-image: none;
-    margin: var(--window-padding);
-    border-radius: var(--window-roundness);
-  }
   #app-mount .tierWrapper-W9ajqp {
     box-shadow: none !important;
   }
@@ -1445,14 +1426,6 @@
     padding-top: 10px;
   }
   
-  html.platform-osx .macButtons-2MuSAC {
-    position: absolute;
-    top: var(--window-padding);
-    left: var(--window-padding);
-    background: rgba(0, 0, 0, var(--serverlist-brightness));
-    width: 72px;
-    border-top-left-radius: var(--window-roundness);
-  }
   html.platform-osx .wrapper-1Rf91z {
     margin-top: 30px;
   }
@@ -1460,10 +1433,6 @@
     padding-top: 15px;
   }
   
-  #app-mount .xenoLib-notifications {
-    padding: calc(var(--window-padding) * 2 + 48px) calc(var(--window-padding) * 2) calc(var(--window-padding) * 2) calc(var(--window-padding) * 2);
-    box-sizing: border-box;
-  }
   #app-mount .xenoLib-notification:not(:only-child) {
     margin-bottom: 15px;
   }
