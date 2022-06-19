@@ -1,6 +1,6 @@
 # discordCSS-for-personal
 
-I edited because I do not like the window border and the title bar. 
+I edited the FrostGlass theme from betterdiscord because I do not like the window border and the title bar. 
 It will only be used under my own purposes for my discord customization across my multiple computers
 
 Any Person who would like to find the original theme:
