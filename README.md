@@ -3,8 +3,7 @@
 I edited because I do not like the window border and the title bar. It will only be used under my own purposes
 
 All Credits to:
-
-/**
+Better Discord Theme Developer
  * @name Frosted Glass
  * @author Gibbu#1211
  * @version 2.0.0
@@ -14,4 +13,4 @@ All Credits to:
  * @authorId 174868361040232448
  * @source https://github.com/DiscordStyles/FrostedGlass
  * @website https://gibbu.me/
-*/
+
